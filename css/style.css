@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'bpg_nino_mtavruli_normal';
+    src: url('bpg_nino_mtavruli_normal.otf')
+}
+@font-face {
+    font-family: 'bpg_nino_mtavruli_bold';
+    src: url('bpg_nino_mtavruli_bold.ttf')
+}
+body{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'bpg_nino_mtavruli_bold.ttf';
+    font-family: bpg_nino_mtavruli_bold.ttf;
+    font-family: "bpg_nino_mtavruli_bold.ttf";
+    font-family: "bpg_nino_mtavruli_bold.ttf"
+}
+li{
+    display: inline-block;
+}
+li a{
+    text-decoration: none;
+    /* background-color: black; */
+    padding: 30px 20px;
+    font-size: 22px;
+ 
+}
+.logo{
+    height: 30px;
+    float: left;
+    display: inline-block;
+    /* background-color: green; */
+}
+.satesto{
+    font-family: 'bpg_nino_mtavruli_bold';
+    font-family: 'bpg_nino_mtavruli_bold.ttf';
+    font-family: bpg_nino_mtavruli_bold.ttf;
+    font-family: "bpg_nino_mtavruli_bold.ttf";
+    font-family: "bpg_nino_mtavruli_bold.ttf"
+}
+
